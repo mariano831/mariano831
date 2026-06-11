@@ -28,7 +28,6 @@
 ## 📫 Me retrouver
 
 - LinkedIn : https://www.linkedin.com/in/mariano-pascoal-mario-821010416/
-- GitHub : https://github.com/VOTRE_PSEUDO_GITHUB
 
 ---
 
